@@ -455,9 +455,9 @@ Rather than treating an LLM response as the final answer, TrustRoute AI uses AI 
 
 ## Connect
 
-- 🌐 [**Portfolio:**](https://hamzashoaib.dev/)
-- 💼 [**LinkedIn:**](https://linkedin.com/in/ch-hamza-shoaib)
-- 🐙 [**GitHub:**](https://github.com/hamxashoaib)
+- 🌐 [**Portfolio**](https://hamzashoaib.dev/)
+- 💼 [**LinkedIn**](https://linkedin.com/in/ch-hamza-shoaib)
+- 🐙 [**GitHub**](https://github.com/hamxashoaib)
 
 ## ⭐ Project
 
