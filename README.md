@@ -447,18 +447,21 @@ Rather than treating an LLM response as the final answer, TrustRoute AI uses AI 
 
 ---
 
-## 👨‍💻 Author
+## Team
 
-**Hamza Shoaib**
+TrustRoute AI was developed as a team project during the
+Generative AI & Agentic AI Training Program – Cohort 11,
+organized by PakAngels and Aspire Pakistan.
 
-*AI & ML Engineer & AI Automation Specialist*
+### Team Lead
+- Hamza Shoaib
 
-## Connect
-
-- 🌐 [**Portfolio**](https://hamzashoaib.dev/)
-- 💼 [**LinkedIn**](https://linkedin.com/in/ch-hamza-shoaib)
-- 🐙 [**GitHub**](https://github.com/hamxashoaib)
-
+### Team Members
+- Humeesa Obaid
+- Meerab Babar
+- Muqadas Afzaal
+- Muhammad Hammad
+- Hafiz Hamza Ikram
 ## ⭐ Project
 
 If you find TrustRoute AI useful or interesting, consider giving the repository a ⭐ on GitHub.
